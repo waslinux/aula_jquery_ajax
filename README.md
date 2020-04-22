@@ -2,7 +2,7 @@
 
 Introdução à biblioteca jQuery
 
-Professor - Professor Rafael Galleani
+Professor Rafael Galleani
 
 Objetivos conquistados :
 
